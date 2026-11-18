@@ -1,0 +1,6 @@
+{
+  "name": "Gridline",
+  "description": "Beginner-friendly tactical calculation workspace with interactive visual diagrams for azimuth, pace count, mil-range estimation, and grid plotting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
